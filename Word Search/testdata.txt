@@ -1,0 +1,69 @@
+15 15
+
+T D C P H S E R F E E B R E H
+E E U E C L E A R W R A P B A
+X L M P T D A O V E N Y B R R
+T I I P N A A M Y C C U R E D
+U C N E E S N C B I O O I A W
+R I T R T R I I P M L O S D O
+E O S E C U A S R L E D K A O
+U U M T J A S T S A E A E L D
+C S O U E B P L U N M S T A M
+E L K M S A A P O R K R E S T
+B I E I I T M S L W E C I U J
+R C E L O R A K T E M A L F E
+A I T I M E T R N I A R G O R
+B N U H S A L T D E N I W I K
+E G C C H A R C O A L G R L Y
+
+49
+Apple
+Barbecue
+Basting
+Beef
+Bread
+Brisket
+Charcoal
+Chili
+Clear
+Cook
+Cumin
+Cured
+Cute
+Delicious
+Flame
+Foil
+Fresh
+Grain
+Hardwood
+Herb
+Jerky
+Juice
+Juicy
+Lamb
+Marinate
+Meat
+Mustard
+Oven
+Pepper
+Pork
+Rest
+Roast
+Rolls
+Salad
+Salt
+Sauces
+Seasoned
+Slicing
+Slow
+Smoke
+Spicy
+Steam
+Temperature
+Tender
+Texture
+Time
+Trim
+Wine
+Wrap
+
